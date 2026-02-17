@@ -1,6 +1,6 @@
 # NLP_HW1
 Genre Analysis: Slave Narratives vs. Romance Novels
-Exploring Model Tuning, Topic Collapse, and the Gap Between Math and Meaning.
+Exploring LLR, LDA, Model Tuning, Topic Collapse.
 
 #Project Overview
 This project uses Natural Language Processing (NLP) to analyze and differentiate between two distinct literary genres from the 19th century. The goal was to test LDA, LLR can isolate thematic elements despite shared historical vocabulary.
