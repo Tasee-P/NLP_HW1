@@ -1,5 +1,5 @@
 # NLP_HW1
-Genre Analysis: Slave Narratives vs. Romance Novels
+Corpus Analysis: Slave Fictions vs. Romance Fictions
 Exploring LLR, LDA, Model Tuning, Topic Collapse.
 
 #Project Overview
